@@ -1,2 +1,2 @@
-# inventory-hub
+# InventoryHub
 An online inventory hub.
